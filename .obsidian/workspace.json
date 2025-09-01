@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "700d74ec24192c94",
+    "id": "7935613fd680e293",
     "type": "split",
     "children": [
       {
-        "id": "453f826bbd6e08cd",
+        "id": "30b41ec305e1d76b",
         "type": "tabs",
         "children": [
           {
-            "id": "46e7380e4ab691e6",
+            "id": "688685ebfc5cc79c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eeeaa6513df94345",
+    "id": "e82925686c5582d7",
     "type": "split",
     "children": [
       {
-        "id": "67cb8f441ca68851",
+        "id": "e5f23ee6dafe5fed",
         "type": "tabs",
         "children": [
           {
-            "id": "5d9e7eefe4c9e7aa",
+            "id": "05dbd1e651be29f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "fab1b5862e41d432",
+            "id": "28b92ebf26a9b41e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "d8dd6a03bdcad4f4",
+            "id": "2e0580b72e4684b6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "8ba2f2b3f6f8aa45",
+    "id": "cc1f8210add8a733",
     "type": "split",
     "children": [
       {
-        "id": "f2eb1e6c78995d1c",
+        "id": "d000cd8d984ca81d",
         "type": "tabs",
         "children": [
           {
-            "id": "eb76b727073c40ef",
+            "id": "024962dc88496422",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "ef262ee3d3a589df",
+            "id": "7971708d24b66c57",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "b50f5ed75ea72bcd",
+            "id": "28f4bca6be2a209c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,21 +131,25 @@
             }
           },
           {
-            "id": "5911b1504dc863df",
+            "id": "90e735f414be96a6",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,12 +159,9 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:创建新数据库": false
     }
   },
-  "active": "5d9e7eefe4c9e7aa",
-  "lastOpenFiles": [
-    "欢迎.md"
-  ]
+  "active": "688685ebfc5cc79c",
+  "lastOpenFiles": []
 }
