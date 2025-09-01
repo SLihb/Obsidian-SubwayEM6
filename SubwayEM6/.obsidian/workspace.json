@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "453f826bbd6e08cd",
+        "id": "d76acc845b2d200e",
         "type": "tabs",
         "children": [
           {
-            "id": "46e7380e4ab691e6",
+            "id": "f68cd4eeec07f9da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "SubwayEM6/02-开源项目/工具框架/未命名.md",
+                "bFile": "SubwayEM6/02-开源项目/工具框架/未命名.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 未命名"
             }
           }
         ]
@@ -141,6 +145,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c91b9da67463cd08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
           }
         ],
         "currentTab": 3
@@ -154,15 +172,38 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d9e7eefe4c9e7aa",
+  "active": "5911b1504dc863df",
   "lastOpenFiles": [
-    "欢迎.md"
+    "欢迎.md",
+    "网新软件/00-项目文档/AI/大先生平台/功能迭代/应用中心/表.md",
+    "网新软件/00-项目文档/AI/大先生平台/功能迭代/应用中心",
+    "网新软件/00-项目文档/RPA/迭代功能/远程调度.md",
+    "网新软件/00-项目文档/RPA/场景案例/财务税务申报自动化流程RPA方案.md",
+    "网新软件/00-项目文档/Odin7C/文章内容发布功能/集成部署数据库脚本.md",
+    "网新软件/00-项目文档/Odin7C/文章内容发布功能/集成包说明.md",
+    "网新软件/00-项目文档/Odin7C/文章内容发布功能/集成包说明.html",
+    "网新软件/00-项目文档/Odin7C/文章内容发布功能/文章发布基本操作流程说明.md",
+    "网新软件/00-项目文档/AI/大先生平台/功能迭代",
+    "网新软件/00-项目文档/RPA/迭代功能",
+    "网新软件/00-项目文档/RPA/相关网站.md",
+    "网新软件/00-项目文档/RPA/开发流程（JS版本）.md",
+    "网新软件/00-项目文档/RPA/基于浏览器插件集成现有RPA产品方案.md",
+    "网新软件/00-项目文档/RPA/场景案例",
+    "网新软件/00-项目文档/RPA/RPA部署包说明.md",
+    "网新软件/00-项目文档/Odin7C/文章内容发布功能",
+    "网新软件/00-项目文档/OCR/芜湖ocr资源部署.md",
+    "网新软件/00-项目文档/OCR/南京ocr服务部署情况.md",
+    "网新软件/00-项目文档/AI/大先生平台",
+    "网新软件/00-项目文档/RPA",
+    "网新软件/00-项目文档/Odin7C",
+    "网新软件/00-项目文档/OCR",
+    "02-开源项目/工具框架/未命名.md",
+    "01-笔记/01-Java/Quartz 框架/Quartz 相关配置概念.md"
   ]
 }
