@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-icon-folder",
+  "obsidian-pangu",
+  "editing-toolbar"
 ]
